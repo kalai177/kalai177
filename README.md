@@ -30,7 +30,7 @@ I love **programming**.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kalaiyarasi-lingsamy/").
 
 ## Tech stack :hammer_and_wrench:
-<img align='right' src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalai177)](https://github.com/kalai177/github-readme-stats)/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
 * * *
 <!--START_SECTION:waka-->
