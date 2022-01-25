@@ -5,9 +5,7 @@
 </div>
 
 <p align='center'>
-  
-I love **programming**.
-  
+  I love **programming**. 
  </p>
 
 - 💬 Ask me about ...
