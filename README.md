@@ -6,7 +6,7 @@
 
 <div align='center'>
   
-# I love **programming**. 
+I love **programming**. 
   
 </div>
 
