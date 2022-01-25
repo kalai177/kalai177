@@ -26,10 +26,10 @@ I love **programming**.
 ## :computer: A little about me 
 - :desktop_computer: I'm currently working on back end development
 - :book: I'm currently learning full stack,docker,react.js
-- 💬 Ask me about C++, node, js
+- 💬 Ask me about C++, js, node
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kalaiyarasi-lingsamy/").
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- :dart: Focuses on growth
+- 
 -->
 <!--START_SECTION:waka-->
 ```text
