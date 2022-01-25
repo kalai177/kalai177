@@ -4,11 +4,11 @@
   
 </div>
 
-<div align='center'>
+<p align='center'>
   
 I love **programming**.
   
- </div>
+ </p>
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
