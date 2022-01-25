@@ -3,7 +3,9 @@
 # Hi there 👋, I'm Kalaiyarasi :woman_technologist:
   
 </div>
-
+<p align="center">
+ I love **Programming**.
+ </p>
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
