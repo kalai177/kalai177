@@ -28,7 +28,8 @@ I love **programming**.
 - :book: I'm currently learning full stack,docker,react.js
 - 💬 Ask me about C++, js, node
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kalaiyarasi-lingsamy/").
-- 
+
+## Tech stack :hammer_and_wrench:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalai177)](https://github.com/kalai177/github-readme-stats)
 
 <!--START_SECTION:waka-->
