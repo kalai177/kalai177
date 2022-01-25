@@ -24,6 +24,7 @@ I love **programming**.
 </p>
 
 ## :computer: A little about me 
+-:seedling: I do learning and growing everday
 - :desktop_computer: I'm currently working on back end development
 - :book: I'm currently learning full stack,docker,react.js
 - 💬 Ask me about C++, js, node
