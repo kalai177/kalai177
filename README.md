@@ -44,7 +44,7 @@ I love **programming**.
 <br>
 ![git](https://img.icons8.com/color/96/000000/git.png)
 ![github](https://img.icons8.com/fluent/96/000000/github.png)
-![mongodb](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png)
+![mongodb](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png)
 ![docker](https://img.icons8.com/fluency/96/000000/docker.png)
 
 * * *
