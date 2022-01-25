@@ -37,6 +37,15 @@ I love **programming**.
 ![js](https://img.icons8.com/color/96/000000/javascript.png)
 ![java](https://img.icons8.com/nolan/96/java-coffee-cup-logo.png)
 <br>
+![html](https://img.icons8.com/color/96/000000/html-5--v1.png)
+![css](https://img.icons8.com/color/96/000000/css3.png)
+![react](https://img.icons8.com/color/96/000000/react-native.png)
+![nodejs](https://img.icons8.com/fluency/96/000000/node-js.png)
+<br>
+![git](https://img.icons8.com/color/96/000000/git.png)
+![github](https://img.icons8.com/fluent/96/000000/github.png)
+![mongodb](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png)
+![docker](https://img.icons8.com/fluency/96/000000/docker.png)
 
 * * *
 <!--START_SECTION:waka-->
