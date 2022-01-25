@@ -31,8 +31,12 @@ I love **programming**.
 
 ## Tech stack :hammer_and_wrench:
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=demo"/>
+
 ![c](https://img.icons8.com/color/50/000000/c-programming.png)
 ![cpp](https://img.icons8.com/color/96/000000/c-plus-plus-logo.png)
+![js](https://img.icons8.com/color/96/000000/javascript.png)
+<br>
+
 * * *
 <!--START_SECTION:waka-->
 ```text
