@@ -23,8 +23,9 @@ I love **programming**.
   
 </p>
 
-## A little about me :computer:
-
+## :computer: A little about me 
+- :desktop_computer: I'm currently working on back end development
+- :book::open_book: I'm currently learning full stack development
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
