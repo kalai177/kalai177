@@ -35,6 +35,7 @@ I love **programming**.
 ![c](https://img.icons8.com/color/96/000000/c-programming.png)
 ![cpp](https://img.icons8.com/color/96/000000/c-plus-plus-logo.png)
 ![js](https://img.icons8.com/color/96/000000/javascript.png)
+![java](https://img.icons8.com/nolan/96/java-coffee-cup-logo.png)
 <br>
 
 * * *
