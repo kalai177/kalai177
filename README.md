@@ -52,9 +52,9 @@ I love **programming**.
 * * *
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 22 mins    ███████████████████████░░   91.87 % 
-JSON         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JavaScript   2 hrs 41 mins   ████████████████████████░   95.64 % 
+JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
 
