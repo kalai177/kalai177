@@ -53,9 +53,8 @@ I love **programming**.
 <!--START_SECTION:waka-->
 
 ```text
-C++          6 hrs 21 mins   █████████████▒░░░░░░░░░░░   52.76 %
-C            5 hrs 18 mins   ███████████░░░░░░░░░░░░░░   44.15 %
-JavaScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+C++   6 hrs 21 mins   ██████████████████▒░░░░░░   73.83 %
+C     2 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.17 %
 ```
 
 <!--END_SECTION:waka-->
